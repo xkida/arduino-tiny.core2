@@ -1,0 +1,1 @@
+arduino-tiny.core2
